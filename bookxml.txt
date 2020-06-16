@@ -1,0 +1,1 @@
+b'<?xml version="1.0" encoding="UTF-8" ?><root><Tom type="dict"><name type="str">Tom</name><address type="str">Dhaka</address><phone type="int">4384653</phone></Tom><Jerry type="dict"><name type="str">Jerry</name><address type="str">Barisal</address><phone type="int">256463</phone></Jerry></root>'
