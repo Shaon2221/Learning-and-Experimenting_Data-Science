@@ -1,1 +1,1 @@
-This repository contain learning graph and resource of Numpy
+**This repository contain learning graph and resource of Numpy**
