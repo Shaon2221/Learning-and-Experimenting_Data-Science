@@ -1,2 +1,2 @@
 
-# Home Price Predictionn based on bengalore data
+# Home Price Predictionn based on Bangalore data
