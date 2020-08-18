@@ -38,3 +38,14 @@ After learning all of the things in this repo, you will be confident enough to d
 - SQL for Data Analysis
 - Business Intelligence
 - Tableau/Power BI
+
+# Some Great Resources
+### Youtube:
+- [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+- [3blue1brown](https://www.youtube.com/c/3blue1brown/) for Math
+- [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
+## Websites:
+- [Toward Data Science](https://towardsdatascience.com/)
+- [Math is Fun](https://www.mathsisfun.com/)
+- [Fast.ai](https://www.fast.ai/)
