@@ -1,11 +1,11 @@
 # Summery
 This repository contains beginner level topics of Machine Learning and Data Science, as well as some advanced topics. It also contain some great projects which I learn. It takes almost four moths to learn all of the basic things for me. I have learnt most of the things from [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) and some of them from different sources. Hats off to the man of this youtube channel for making this possible. He is awesome teacher! One of the interesting part of his lesson is, he gave exercises for every topic. Please, visit his youtube channel and appreciate his hard work. Note that, I am updating this repository on a regular basis. I highly recommened your contribution and obviously feedback.
 
-# Objectives
+# Objectives 👼🏼
 - Readable codes which anyone can use as ebook for his learning purpose
 - To recall my memories when I get stuck
 
-# Where to start
+# Where to start 🤔
 1. [Pandas](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Pandas)
 2. [NumPy](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Numpy)
 3. [Matplotlib](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Matplotlib) & [Seaborn](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Seaborn)
@@ -16,17 +16,17 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 8. [ML A-Z](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/ML%20A-Z)
 9. [SQL](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/SQL)
 
-# Pre-requisite
+# Pre-requisite 🗝
 - Python Basic
 - Basic Math ( Calculus, Matrix calculation, Algebra, Statistics) 
 
-# Set-up Environment
-Most of the code executed in jupyter notebook. You can download Anaconda which come up with all necessery packages. Download Anaconda [here](https://www.anaconda.com/products/individual)
-If you're using Jupyter Notebook without anaconda distribution execute following command. It will install all package you need right now. <br><br>
+# Set-up Environment 💻
+Most of the code executed in jupyter notebook. You can download Anaconda which come up with all necessery packages. Download Anaconda [here](https://www.anaconda.com/products/individual).
+If you're using Jupyter Notebook without anaconda distribution execute following command. It will install all package you need right now. 👇🏼<br><br>
 `pip install numpy pandas seaborn matplotlib scikit-learn` <br><br>
 That's it. Start playing with codes. Good Luck.
 
-# What is next
+# What is next🎯
 After learning all of the things in this repo, you will be confident enough to do great things. Some of the recommendeation what I am doing after this:
 - Doing projects
 - Data Science micro course [Kaggle](https://www.kaggle.com/learn/overview)
