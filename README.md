@@ -28,7 +28,7 @@ If you're using Jupyter Notebook without anaconda distribution execute following
 That's it. Start playing with codes. Good Luck.🤗
 
 # What is next🎯
-After learning all of the things in this repo, you will be confident enough to do great things. Some of the recommendeation what I am doing after this:
+After learning all of the things in this repo, you will be confident enough to do great things. Some of the recommendation what I am doing after this:
 - Doing projects
 - Data Science micro course [Kaggle](https://www.kaggle.com/learn/overview)
 - Intro to Inferential Statistics
