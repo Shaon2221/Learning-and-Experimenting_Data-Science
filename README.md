@@ -5,6 +5,10 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 - Readable codes which anyone can use as ebook for his learning purpose
 - To recall my memories when I get stuck
 
+# Pre-requisite 🗝
+- Python Basic
+- Basic Math ( Calculus, Matrix calculation, Algebra, Statistics) 
+
 # Where to start 🤔
 1. [Pandas](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Pandas)
 2. [NumPy](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Numpy)
@@ -15,10 +19,6 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 7. [Deep Learning](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Deep%20Learning)
 8. [ML A-Z](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/ML%20A-Z)
 9. [SQL](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/SQL)
-
-# Pre-requisite 🗝
-- Python Basic
-- Basic Math ( Calculus, Matrix calculation, Algebra, Statistics) 
 
 # Set-up Environment 💻
 Most of the code executed in jupyter notebook. You can download Anaconda which come up with all necessery packages. Download Anaconda [here](https://www.anaconda.com/products/individual). <br>
