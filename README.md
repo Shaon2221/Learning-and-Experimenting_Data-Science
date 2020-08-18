@@ -24,7 +24,7 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 Most of the code executed in jupyter notebook. You can download Anaconda which come up with all necessery packages. Download Anaconda [here](https://www.anaconda.com/products/individual).
 If you're using Jupyter Notebook without anaconda distribution execute following command. It will install all package you need right now. 👇🏼<br><br>
 `pip install numpy pandas seaborn matplotlib scikit-learn` <br><br>
-That's it. Start playing with codes. Good Luck.
+That's it. Start playing with codes. Good Luck.🤗
 
 # What is next🎯
 After learning all of the things in this repo, you will be confident enough to do great things. Some of the recommendeation what I am doing after this:
