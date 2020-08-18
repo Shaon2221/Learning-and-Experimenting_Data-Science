@@ -45,7 +45,7 @@ After learning all of the things in this repo, you will be confident enough to d
 - [3blue1brown](https://www.youtube.com/c/3blue1brown/) for Math
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
-## Websites:
+### Websites:
 - [Toward Data Science](https://towardsdatascience.com/)
 - [Math is Fun](https://www.mathsisfun.com/)
 - [Fast.ai](https://www.fast.ai/)
