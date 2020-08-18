@@ -49,3 +49,5 @@ After learning all of the things in this repo, you will be confident enough to d
 - [Toward Data Science](https://towardsdatascience.com/)
 - [Math is Fun](https://www.mathsisfun.com/)
 - [Fast.ai](https://www.fast.ai/)
+
+_Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
