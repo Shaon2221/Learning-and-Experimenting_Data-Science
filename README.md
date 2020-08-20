@@ -53,7 +53,7 @@ After learning all of the things in this repo, you will be confident enough to d
 _Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
 <br><br><br>
 For Bengali community:<br>
-**Data Science in Python**
+**Data Science using Python** <br>
 যখনি নতুন কিছু শিখেছি, নিজের মতো করে নোট করে রেখেছি। মূলত, সেভাবেই তৈরি হয়েছে এই গিটহাব রিপোসিটরি। আমার মতো যারা ডাটা নিয়ে কাজ করতে আগ্রহী, তাদের কোন কাজ এ লাগতে পারে। নোটবুকে থিউরি ব্যাখ্যা করা আছে, পাশাপাশি কমেন্ট রেখে কোড রিডেবল রাখার চেষ্টা করেছি। কোনটা শুরু করব, কোথায় শুরু করব, রিসোর্স কোথায় পাব এগুলোতে সময় নষ্ট কমিয়ে শেখা শুরু করতে পারবে যে কেউ। ই-বুক এর মতো ব্যবহার করতে পারেন। আমার উদ্দেশ্য ছিলো ২টা।<br>
 ১| ভবিষ্যতে নিজে কোথাও আটকে গেলে যেন এখান থেকে সাহায্য নিতে পারি।<br>
 ২| আমি ওপেন সোর্স কমিউনিটি থেকে শিখতেছি। এই কমিউনিটিতে যতটা সম্ভব কন্ট্রিবিউশন করা।<br>
