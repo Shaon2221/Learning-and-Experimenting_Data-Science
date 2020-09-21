@@ -46,9 +46,10 @@ After learning all of the things in this repo, you will be confident enough to d
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 ### Websites:
-- [Toward Data Science](https://towardsdatascience.com/)
 - [Math is Fun](https://www.mathsisfun.com/)
 - [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Toward Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Fast.ai](https://www.fast.ai/)
 
 _Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
