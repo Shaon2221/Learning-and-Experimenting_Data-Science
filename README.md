@@ -48,6 +48,7 @@ After learning all of the things in this repo, you will be confident enough to d
 ### Websites:
 - [Toward Data Science](https://towardsdatascience.com/)
 - [Math is Fun](https://www.mathsisfun.com/)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
 - [Fast.ai](https://www.fast.ai/)
 
 _Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
