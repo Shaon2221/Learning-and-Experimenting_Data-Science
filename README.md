@@ -52,6 +52,7 @@ After learning all of the things in this repo, you will be confident enough to d
 - [Toward Data Science](https://towardsdatascience.com/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Fast.ai](https://www.fast.ai/)
+- [Open-source clones](https://gourav.io/clone-wars)
 
 _Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
 <br><br><br>
