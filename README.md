@@ -37,7 +37,7 @@ After learning all of the things in this repo, you will be confident enough to d
 - Data Wrangling
 - SQL for Data Analysis
 - Business Intelligence
-- Tableau/Power BI
+- Tableau/Power BI 
 
 # Some Great Resources
 ### Youtube:
