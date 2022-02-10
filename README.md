@@ -5,7 +5,7 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 
 # Objectives 👼🏼
 - Readable codes which anyone can use as ebook for his learning purpose
-- To recall my memories when I get stuck
+- To recall my memories when I get stuck 
 
 # Pre-requisite 🗝
 - Python Basic
