@@ -1,1 +1,1 @@
-**Theory and Exercise of Deep Learning**
+**Theory and Exercises of Deep Learning**

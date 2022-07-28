@@ -7,6 +7,7 @@ This repository contains beginner level topics of Machine Learning and Data Scie
 - Readable codes which anyone can use as ebook for his learning purpose 
 - To recall my memories when I get stuck
 
+
 # Pre-requisite 🗝
 - Python Basic
 - Basic Math ( Calculus, Matrix calculation, Algebra, Statistics) 
@@ -37,18 +38,22 @@ After learning all of the things in this repo, you will be confident enough to d
 - Data Wrangling
 - SQL for Data Analysis
 - Business Intelligence
-- Tableau/Power BI
+- Tableau/Power BI 
 
 # Some Great Resources
 ### Youtube:
 - [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
 - [3blue1brown](https://www.youtube.com/c/3blue1brown/) for Math
 - [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
 ### Websites:
-- [Toward Data Science](https://towardsdatascience.com/)
 - [Math is Fun](https://www.mathsisfun.com/)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Toward Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - [Fast.ai](https://www.fast.ai/)
+- [Open-source clones](https://gourav.io/clone-wars)
 
 _Please, keep in mind that data science is a never end learning process. Prepare yourself for challenging and learning new stuffs regularly._
 <br><br><br>

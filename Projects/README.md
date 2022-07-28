@@ -5,7 +5,7 @@ After Learning all of the basic things, I need working experience to an end-to-e
 - Make familiar with data science project
 - Creating some own data exploration techniques
 - Build a sustainable model
-
+ 
 # Steps
 1. Data Cleaning( Handling Na values)
 2. Data Exploration
