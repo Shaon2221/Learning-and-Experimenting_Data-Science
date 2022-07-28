@@ -4,8 +4,9 @@
 This repository contains beginner level topics of Machine Learning and Data Science, as well as some advanced topics. It also contain some great projects which I learn. It takes almost four moths to learn all of the basic things for me. This repository is very close to my heart🖤. I have learnt most of the things from [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) and some of them from different sources. Hats off to the man of this youtube channel for making this possible. He is awesome teacher! One of the interesting part of his lesson is, he gave exercises for every topic. Please, visit his youtube channel and appreciate his hard work. Note that, I am updating this repository on a regular basis. I highly recommened your contribution and obviously feedback.
 
 # Objectives 👼🏼
-- Readable codes which anyone can use as ebook for his learning purpose
-- To recall my memories when I get stuck 
+- Readable codes which anyone can use as ebook for his learning purpose 
+- To recall my memories when I get stuck
+
 
 # Pre-requisite 🗝
 - Python Basic
