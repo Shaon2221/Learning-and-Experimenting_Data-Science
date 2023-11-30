@@ -29,8 +29,7 @@
 - [🚀 Getting Started](#-getting-started)
     - [🔧 Installation](#-installation)
     - [🤖 Running Learning-and-Experimenting_Data-Science](#-running-Learning-and-Experimenting_Data-Science)
-    - [🧪 Tests](#-tests)
-- [🛣 Roadmap](#-roadmap)
+- [What is next🎯](#-What-is-next)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [👏 Acknowledgments](#-acknowledgments)
@@ -41,9 +40,19 @@
 ## 📍 Overview
 
 The Learning-and-Experimenting_Data-Science repository functions as a comprehensive learning resource for Data Science, where Machine Learning concepts are beautifully demystified. Primarily geared towards self-learners, it hosts a wide array of solved Machine Learning projects explained along with deep dives into Keras-based deep learning tasks. This repository is a valuable go-to for those aspiring to gain practical, hands-on knowledge in data science and machine learning.
-
+**Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.**<br> Then, what is Data ? <br>
+*Data is a collection of facts, such as numbers, words, measurements, observations or just descriptions of things.* <br><br>
+This repository contains beginner level topics of Machine Learning and Data Science, as well as some advanced topics. It also contain some great projects which I learn. It takes almost four moths to learn all of the basic things for me. This repository is very close to my heart🖤. I have learnt most of the things from [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) and some of them from different sources. Hats off to the man of this youtube channel for making this possible. He is awesome teacher! One of the interesting part of his lesson is, he gave exercises for every topic. Please, visit his youtube channel and appreciate his hard work. Note that, I am updating this repository on a regular basis. I highly recommened your contribution and obviously feedback.
 ---
+# Objectives 👼🏼 
+- Readable codes which anyone can use as ebook for his learning purpose 
+- To recall my memories when I get stuck
+ 
 
+# Pre-requisite 🗝
+- Python Basic
+- Basic Math ( Calculus, Matrix calculation, Algebra, Statistics)
+---
 ## 📦 Features
 
 |    | Feature            | Description                                                                                                        |
@@ -467,13 +476,8 @@ The Learning-and-Experimenting_Data-Science repository functions as a comprehens
 
 ***Dependencies***
 
-Please ensure you have the following dependencies installed on your system:
+Please ensure you have the following dependencies installed on your system: [requirements.txt](https://github.com/Learning-and-Experimenting_Data-Science/blob/main/requirements.txt)
 
-`- ℹ️ Dependency 1`
-
-`- ℹ️ Dependency 2`
-
-`- ℹ️ ...`
 
 ### 🔧 Installation
 
@@ -497,16 +501,6 @@ pip install -r requirements.txt
 ```sh
 jupyter nbconvert --execute notebook.ipynb
 ```
-
-### 🧪 Tests
-```sh
-pytest notebook_test.py
-```
-
----
-
-
-## 🛣 Project Roadmap
 
 
 
@@ -552,19 +546,6 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 ---
 
 
-# Summary
-**Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.**<br> Then, what is Data ? <br>
-*Data is a collection of facts, such as numbers, words, measurements, observations or just descriptions of things.* <br><br>
-This repository contains beginner level topics of Machine Learning and Data Science, as well as some advanced topics. It also contain some great projects which I learn. It takes almost four moths to learn all of the basic things for me. This repository is very close to my heart🖤. I have learnt most of the things from [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) and some of them from different sources. Hats off to the man of this youtube channel for making this possible. He is awesome teacher! One of the interesting part of his lesson is, he gave exercises for every topic. Please, visit his youtube channel and appreciate his hard work. Note that, I am updating this repository on a regular basis. I highly recommened your contribution and obviously feedback.
-
-# Objectives 👼🏼 
-- Readable codes which anyone can use as ebook for his learning purpose 
-- To recall my memories when I get stuck
- 
-
-# Pre-requisite 🗝
-- Python Basic
-- Basic Math ( Calculus, Matrix calculation, Algebra, Statistics) 
 
 # Where to start 🤔
 1. [Pandas](https://github.com/Shaon2221/Learning-and-Experiment_Data-Science/tree/master/Pandas)
