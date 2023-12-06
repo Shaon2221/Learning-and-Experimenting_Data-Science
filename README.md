@@ -6,7 +6,7 @@
 <h5 align="center">Connect with me: <a href="https://www.linkedin.com/in/shaon2221">LinkedIn</a> 🚀</h5>
 <h3>◦ Developed with the software and tools below.</h3>
 
-<p align="center">
+<p align="center"> 
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python" />
